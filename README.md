@@ -1,5 +1,9 @@
 ![CI/CD](https://github.com/irvinm/TST-Colorize-Tabs/workflows/CI/CD/badge.svg)
 
+## This project is now archived.
+- These code changes were merged into the original project in version v2.0.0
+- https://github.com/emvaized/tst-colorize-tabs/releases/tag/v.2.0.0
+  
 ## Original Information
 
 [Original TST Colorize Tabs Firefox Addon](https://addons.mozilla.org/firefox/addon/tst-colorize-tabs/)
